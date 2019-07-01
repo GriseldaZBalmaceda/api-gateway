@@ -1,0 +1,18 @@
+/*
+============================================
+; Title:  Assignment 2.3 - API Gateway Part II
+; Author: Griselda Balmaceda
+; Description: Styles
+;===========================================
+*/
+
+
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
